@@ -26,7 +26,6 @@ button {
     font-size: 16px;
     border-radius: 5px;
     cursor: pointer;
-    margin: 10px;
 }
 
 button:hover {
@@ -38,22 +37,7 @@ footer {
     padding: 20px;
     background: rgba(0, 0, 0, 0.3);
 }
-
-/* Dark mode */
 .dark-mode {
     background: #121212;
     color: #ffffff;
-}
-
-/* Greeting style */
-#greeting {
-    margin-top: 20px;
-    font-size: 24px;
-    font-weight: bold;
-}
-input {
-    padding: 8px;
-    margin-top: 10px;
-    border-radius: 5px;
-    border: none;
 }
